@@ -8,7 +8,7 @@ Press **Y** to activate it.
 
 **Using [fvm](https://github.com/qlaffont/fvm-installer).**
 ```bash
-fvm install --save esx_cruisecontrol
+fvm install --folder=esx --save esx-org/esx_cruisecontrol
 ```
 
 **Using Git Releases**
